@@ -1,4 +1,4 @@
-HELLO THERE!! My name is Brook Hatia, a self-thought full-stack developer with a non-stop interest in learning more
+HELLO THERE!! My name is Brook Hatia, a full-stack developer with a non-stop interest in learning more
 
 Languages: `JavaScript`, `Python`, `Java`, `HTML`, `CSS`
 
