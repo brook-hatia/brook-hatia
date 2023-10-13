@@ -1,7 +1,7 @@
-HELLO THERE!! My name is Brook Hatia, a full-stack developer with a non-stop interest in learning more
+HELLO THERE!! My name is Brook Hatia, a full-stack developer interested in learning new technology.
 
-Languages: `JavaScript`, `Python`, `Java`, `HTML`, `CSS`
+Languages: `JavaScript`, `Python`, `Java`, `C#`, `C++`, `HTML`, `CSS`
 
 Frameworks/Libraries and Databases: `React`, `Redux`, `NodeJS`, `ExpressJS`, `MongoDB`, `Firebase`
 
-Tools: `Git`, `Webpack`, `Heroku`, `Jest`, `Github`
+Tools: `Git`, `Jest`, `Github`
